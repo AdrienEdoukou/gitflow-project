@@ -1,1 +1,1 @@
-Feature 1 implemented
+FeatureA implemented + Bug fixed
